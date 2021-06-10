@@ -26,7 +26,7 @@ int singleNumber2(vector<int>& nums) {
 }
 int main()
 {
-	vector<int> nums{ 5,5,5,3,3,3,8,8,-845,8 };
+	vector<int> nums{ 0,1,2,0,1,2,0,1,2,3 };
 	Print(nums);
 	int result = singleNumber2(nums);
 	cout << "Single number II is " << result << endl;
