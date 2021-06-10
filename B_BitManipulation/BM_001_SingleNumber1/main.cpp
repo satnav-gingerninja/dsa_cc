@@ -21,8 +21,5 @@ int main()
 	Print(nums);
 	int result = singleNumber(nums);
 	cout << "Single number is " << result << endl;
-
-	string s1, s2, s3{};
-	s1 + s2 = s3;
 	return 0;
 }
