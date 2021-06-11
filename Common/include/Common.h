@@ -11,6 +11,7 @@
 #include <algorithm>
 #include <iomanip>
 #include <numeric>
+#include <bitset>
 
 using namespace std;
 

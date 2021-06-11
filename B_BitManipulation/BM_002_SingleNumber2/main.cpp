@@ -1,5 +1,4 @@
-/* 
-	BM_002_SingleNumber2.cpp : This file contains the 'main' function. Program execution begins and ends there.
+/* 	
 	LC137 - SingleNumber2 https://leetcode.com/problems/single-number-ii/
 */
 
@@ -27,7 +26,7 @@ int singleNumber2(vector<int>& nums) {
 int main()
 {
 	vector<int> nums{ 0,1,2,0,1,2,0,1,2,3 };
-	Print(nums);
+	Print(nums);	
 	int result = singleNumber2(nums);
 	cout << "Single number II is " << result << endl;
 	return 0;

@@ -1,6 +1,5 @@
 /* 
-	BM_001_SingleNumber1.cpp : This file contains the 'main' function. Program execution begins and ends there.
-	LC136 - SingleNumber https://leetcode.com/problems/single-number/
+	LC136 - SingleNumber https://leetcode.com/problems/single-number/	
 */
 
 #include "Common.h"
